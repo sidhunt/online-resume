@@ -293,26 +293,35 @@ projects:
 #         conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: Flutter SDK
         level: 100%
 
-      - name: PyTorch
-        level: 90%
-
-      - name: Tensorflow
-        level: 60%
-
-      - name: Caffe
+      - name: Python
         level: 80%
 
-      - name: Matlab
+      - name: Dart
+        level: 80%
+
+      - name: Firebase
         level: 90%
 
-      - name: C/C++
-        level: 75%
+      - name: Git
+        level: 70%
+
+      - name: VS Code
+        level: 100%
+
+      - name: Android Studio
+        level: 80%
+
+      - name: Xcode
+        level: 60%
+
+      - name: Kotlin
+        level: 60%
 
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
