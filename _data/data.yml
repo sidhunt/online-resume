@@ -300,7 +300,7 @@ skills:
         level: 100%
 
       - name: Python
-       level: 80%
+        level: 80%
 
       - name: Dart
         level: 80%
