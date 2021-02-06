@@ -31,8 +31,8 @@ sidebar:
       - idiom: Hindi  # Italian
         level: Native
 
-      - idiom: # German
-        level: #Colloquial
+     # - idiom: # German
+     #   level: #Colloquial
 
     interests:
       - item: Video Games
