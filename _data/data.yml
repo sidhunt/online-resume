@@ -296,32 +296,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Flutter SDK
+      - name: Python
         level: 100%
 
-      - name: Python
-        level: 80%
-
-      - name: Dart
-        level: 80%
-
-      - name: Firebase
+      - name: PyTorch
         level: 90%
 
-      - name: Git
-        level: 70%
+      - name: Tensorflow
+        level: 60%
 
-      - name: VS Code
-        level: 100%
-
-      - name: Android Studio
+      - name: Caffe
         level: 80%
 
-      - name: Xcode
-        level: 60%
+      - name: Matlab
+        level: 90%
 
-      - name: Kotlin
-        level: 60%
+      - name: C/C++
+        level: 75%
 
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
