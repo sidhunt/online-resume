@@ -3,57 +3,56 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Siddhant Badola
-    tagline: Mobile Application Developer
-    avatar: square.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Siddhant Badola
+  tagline: Mobile Application Developer
+  avatar: square.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: siddhantbadola5@gmail.com
-    phone: +91-8755227563
-    website:    #bbrattoli.github.io/publications/ #do not add http://
-    linkedin: sbadola5
-    github: sidhunt
-    gitlab:
-    bitbucket:
-    twitter: '@sidhunt5'
-    stack-overflow: 5089556/siddhant-badola # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: siddhantbadola5@gmail.com
+  phone: +91-8755227563
+  website: #bbrattoli.github.io/publications/ #do not add http://
+  linkedin: sbadola5
+  github: sidhunt
+  gitlab:
+  bitbucket:
+  twitter: "@sidhunt5"
+  stack-overflow: 5089556/siddhant-badola # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Fluent
+  languages:
+    - idiom: English
+      level: Fluent
 
-      - idiom: Hindi  # Italian
-        level: Native
+    - idiom: Hindi # Italian
+      level: Native
 
-     # - idiom: # German
-     #   level: #Colloquial
+    # - idiom: # German
+    #   level: #Colloquial
 
-    interests:
-      - item: Video Games
-        link:
+  interests:
+    - item: Video Games
+      link:
 
-      - item: Music
-        link:
+    - item: Music
+      link:
 
-      - item: Swimming
-        link:
+    - item: Swimming
+      link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-       A Mobile Application Developer with 2+ years of experience in technology sector. A Flutter developer who specializes in UI/UX, Digital Content, and learning new skills along the way. A 2017 Bachelors of Computer Science graduate of DIT University interested in Android/iOS, Machine Learning, and New Markets.
- 
+  title: Career Profile
+  summary: |
+    A Mobile Application Developer with 2+ years of experience in technology sector. A Flutter developer who specializes in UI/UX, Digital Content, and learning new skills along the way. A 2017 Bachelors of Computer Science graduate of DIT University interested in Android/iOS, Machine Learning, and New Markets.
+
 # news:
 #     title: News
 #     intro: |
-        
-    
+
 #     posts:
 #         - time: December 2020
 #           title: Defending my PhD Thesis. Magna cum Laude
@@ -66,48 +65,48 @@ career-profile:
 
 #         - time: June 2020
 #           title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
-        
+
 #         - time: February 2020
 #           title: The work done during my internship was accepted as publication at CVPR 2020
-          
+
 #         - time: July 2019
 #           title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
-          
+
 #         - time: July 2019
 #           title: One paper accepted at ICCV19
-          
+
 #         - time: January 2019
 #           title: Selected as reviewer for ICCV19
-        
+
 #         - time: December 2018
 #           title: Selected as reviewer for CVPR19
-        
+
 #         - time: Sptember 2018
 #           title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
-        
+
 #         - time: July 2018
 #           title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
-        
+
 #         - time: 2018
 #           title: Paper accepted as poster at ECCV18 in Munich, Germany
-        
+
 #         - time: 2017
 #           title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
-        
+
 #         - time: 2017
 #           title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
 education:
-    - degree: Masters of Science (Computer Science)
-      university: Lakehead University, ON, CANADA
-      time: 2020 Sept - current
-      details: |
-      
-    - degree: Bachelor's of Technology
-      university: DITU, UK, INDIA
-      time: 2013 - 2017
-      details: |
-     
+  - degree: Masters of Science (Computer Science)
+    university: Lakehead University, ON, CANADA
+    time: 2020 Sept - current
+    details: |
+
+  - degree: Bachelor's of Technology
+    university: DITU, UK, INDIA
+    time: 2013 - 2017
+    details: |
+
 #     - degree: PhD in Computer vision and Machine learning
 #       university: Heidelberg University
 #       time: 2015 - 2020
@@ -122,28 +121,27 @@ education:
 #       university: KTH (Stockholm, Sweden)
 #       time: 2013 - 2015
 #       details: |
-    
+
 #     - degree: Master Degree
 #       university: Politecnico di Torino (Torino, Italy)
 #       time: 2012 - 2015
 #       details: |
-    
+
 #     - degree: Bachelor Degree
 #       university: Politecnico di Torino (Torino, Italy)
 #       time: 2009 - 2012
 #       details: |
 
-
 educationcomplete:
-    - degree: Masters of Science (Computer Science)
-      university: Lakehead University, ON, CANADA
-      time: 2020 Sept - current
-      details: |
-      
-    - degree: Bachelor's of Technology
-      university: DITU, UK, INDIA
-      time: 2013 - 2017
-      details: |
+  - degree: Masters of Science (Computer Science)
+    university: Lakehead University, ON, CANADA
+    time: 2020 Sept - current
+    details: |
+
+  - degree: Bachelor's of Technology
+    university: DITU, UK, INDIA
+    time: 2013 - 2017
+    details: |
 
 #     - degree: PhD in Computer vision and Machine learning
 #       university: Heidelberg University
@@ -159,7 +157,7 @@ educationcomplete:
 #       university: Tobii
 #       time: 2014 - 2015
 #       details: |
-#         Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+#         Master thesis topic Hand gesture classification by Deep learning using infrared camera
 
 #           - Deep learning
 #           - Hand Gesture
@@ -173,102 +171,99 @@ educationcomplete:
 #           - Artificial Intelligence
 #           - Machine Learning
 #           - Computer Vision
-    
+
 #     - degree: Master Degree
 #       university: Politecnico di Torino (Torino, Italy)
 #       time: 2012 - 2015
 #       details: |
 #         Master degree in Software Engineering
-    
+
 #     - degree: Bachelor Degree
 #       university: Politecnico di Torino (Torino, Italy)
 #       time: 2009 - 2012
 #       details: |
 #         Master degree in Computer Engineering
 
-
 experiences:
-    - role: Mobile Application Developer(Flutter)
-      time: 2020 - 2021
-      company: Wizcrew Technologies, India
-      details: |
-          - Designed and developed fully functional ERP school software apps with Firebase for backend/authentication and functioning WebRTC video conferencing feature. 
-          - Developed, tested and published an Indian government schemes aggregator/informative app with JSON based dynamic UI and real-time caching. 
-          - Developed, tested and published a media sharing app (TikTok clone) with headless CMS as backend. 
-          - Developed a multilingual news aggregator app(Google news clone).
-          - Developed, tested and published several apps for the company as well as worked on many more.
+  - role: Mobile Application Developer(Flutter)
+    time: 2020 - 2021
+    company: Wizcrew Technologies, India
+    details: |
+      - Designed and developed fully functional ERP school software apps with Firebase for backend/authentication and functioning WebRTC video conferencing feature. 
+      - Developed, tested and published an Indian government schemes aggregator/informative app with JSON based dynamic UI and real-time caching. 
+      - Developed, tested and published a media sharing app (TikTok clone) with headless CMS as backend. 
+      - Developed a multilingual news aggregator app(Google news clone).
+      - Developed, tested and published several apps for the company as well as worked on many more.
 
-    - role: Junior Mobile Application Developer(Flutter)
-      time: 2019 Aug-Dec
-      company: Digital Business Solutions
-      details: |
-          - Implemented a CRM app with focus on geofencing and geotagging, Also implemented various Authentication systems using Firebase backend, like OTP, social sign-up (Google, Facebook, Email) and payment gateway using Razorpay SDK.
-          -	Worked with remote data via REST and JSON as well as noSQL database management using Firestore.
-          -	Implemented several third-party libraries and APIs.
-          -	Full-stack mobile app development (Android and iOS) using the Flutter/Firebase ecosystem.
+  - role: Junior Mobile Application Developer(Flutter)
+    time: 2019 Aug-Dec
+    company: Digital Business Solutions
+    details: |
+      - Implemented a CRM app with focus on geofencing and geotagging, Also implemented various Authentication systems using Firebase backend, like OTP, social sign-up (Google, Facebook, Email) and payment gateway using Razorpay SDK.
+      -	Worked with remote data via REST and JSON as well as noSQL database management using Firestore.
+      -	Implemented several third-party libraries and APIs.
+      -	Full-stack mobile app development (Android and iOS) using the Flutter/Firebase ecosystem.
 
-    - role: Python Trainee
-      time: 2019 Mar-Aug
-      company: Coding Ninjas,India 
-      details: |
-          - Learned basics of python programming.
-          - Implemented various data structures using python.
-          -	Developed a Twitter bot to reply to a tweet directed towards the account.
+  - role: Python Trainee
+    time: 2019 Mar-Aug
+    company: Coding Ninjas,India
+    details: |
+      - Learned basics of python programming.
+      - Implemented various data structures using python.
+      -	Developed a Twitter bot to reply to a tweet directed towards the account.
 
-    - role: Mobile Software Engineer Intern
-      time: 2016 June-Aug
-      company: TimeTackle LLC, USA
-      details: |
-          - Published an Android meditation app on Google Play Store, implemented a user on-boarding page as well as an inhale/exhale animation guide.  
-          
+  - role: Mobile Software Engineer Intern
+    time: 2016 June-Aug
+    company: TimeTackle LLC, USA
+    details: |
+      - Published an Android meditation app on Google Play Store, implemented a user on-boarding page as well as an inhale/exhale animation guide.
 
-    - role: Android Trainee
-      time: 2015 Apr-Jul
-      company: CETPA Infotech Pvt. Ltd, India
-      details: |
-          - Learned basics of android programming using Java.
-          - Implemented strategies to build working android apps.
+  - role: Android Trainee
+    time: 2015 Apr-Jul
+    company: CETPA Infotech Pvt. Ltd, India
+    details: |
+      - Learned basics of android programming using Java.
+      - Implemented strategies to build working android apps.
 
 projects:
-    title: Projects
-    intro: >
-      List of projects I have designed, developed, tested and published.
+  title: Projects
+  intro: >
+    List of projects I have designed, developed, tested and published.
 
-    assignments:
-      - title: School ERP app demo
-        link: "https://github.com/sidhunt/SchoolERP-showcase"
-        tagline: "A fully functional ERP school software apps with Firebase for backend/authentication and functioning WebRTC video conferencing feature."
+  assignments:
+    - title: School ERP app demo
+      link: "https://github.com/sidhunt/SchoolERP-showcase"
+      tagline: "A fully functional ERP school software apps with Firebase for backend/authentication and functioning WebRTC video conferencing feature."
 
-      - title: Indian Government Schemes Agregator App
-        link: "https://github.com/sidhunt/SarkariYojanaDemo"
-        tagline: "an Indian government schemes aggregator/informative app with JSON based dynamic UI and real-time caching."
+    - title: Indian Government Schemes Agregator App
+      link: "https://github.com/sidhunt/SarkariYojanaDemo"
+      tagline: "an Indian government schemes aggregator/informative app with JSON based dynamic UI and real-time caching."
 
-      - title: BakBak
-        link: "https://github.com/sidhunt/bak-bak"
-        tagline: "a media sharing app (TikTok clone) with headless CMS as backend."
+    - title: BakBak
+      link: "https://github.com/sidhunt/bak-bak"
+      tagline: "a media sharing app (TikTok clone) with headless CMS as backend."
 
-      - title: News Aggregator App
-        link: "https://github.com/sidhunt/News-App-Showcase"
-        tagline: "Aa multilingual news aggregator app(Google news clone)."
+    - title: News Aggregator App
+      link: "https://github.com/sidhunt/News-App-Showcase"
+      tagline: "Aa multilingual news aggregator app(Google news clone)."
 
-      - title: Touchless Video Controller App
-        link: "https://github.com/sidhunt/Hand-Gesture-Media-Controller"
-        tagline: "A demo app to showcase hand gesture recognition to control any media like videos/audio."
+    - title: Touchless Video Controller App
+      link: "https://github.com/sidhunt/Hand-Gesture-Media-Controller"
+      tagline: "A demo app to showcase hand gesture recognition to control any media like videos/audio."
 
 # publications:
 #     title: Publications
 #     intro: |
-      
 
 #     papers:
 #       - title: "Sharing Matters for Generalization in Deep Metric Learning"
 #         authors: T. Milbich*, K. Roth*, B. Brattoli, B. Ommer
 #         conference: tPAMI, 2020
-        
+
 #       - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
 #         authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
 #         conference: CVPR, 2020
-        
+
 #       - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
 #         authors: B. Brattoli*, K. Roth*, B. Ommer
 #         conference: ICCV, 2019
@@ -292,41 +287,41 @@ projects:
 #       - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
 #         authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
 #         conference: "Nature Communications, 2017"
-        
+
 #       - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
 #         authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
 #         conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Flutter
-        level: 100%
+  toolset:
+    - name: Flutter
+      level: 100%
 
-      - name: Python
-        level: 80%
+    - name: Python
+      level: 80%
 
-      - name: Dart
-        level: 80%
+    - name: Dart
+      level: 80%
 
-      - name: Firebase
-        level: 90%
+    - name: Firebase
+      level: 90%
 
-      - name: Git
-        level: 70%
+    - name: Git
+      level: 70%
 
-      - name: VS Code
-        level: 100%
+    - name: VS Code
+      level: 100%
 
-      - name: Android Studio
-        level: 80%
+    - name: Android Studio
+      level: 80%
 
-      - name: Xcode
-        level: 60%
+    - name: Xcode
+      level: 60%
 
-      - name: Kotlin
-        level: 50%
-        
+    - name: Kotlin
+      level: 50%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
