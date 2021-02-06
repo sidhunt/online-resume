@@ -47,7 +47,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    A Mobile Application Developer with 2+ years of experience.I have worked as a Flutter developer and worked with various technologies and implemented several SDKs, most prominent work done with WebRTC, ERP, Firebase, headless CMS, JSON based dynamic UI, Authentication, Payment gateways, noSQL and much more. I completed my Bachelors in 2017 in Bachelors of Computer Science and I am presently pursuing my Master's from Lakehead University in Canada.
+    A Mobile Application Developer with 2+ years of experience.Worked as a Flutter developer with various technologies and implemented several SDKs.Most prominent work done with WebRTC, ERP, Firebase, headless CMS, JSON based dynamic UI, Authentication, Payment gateways, noSQL and much more.Completed my Bachelors in 2017, in Bachelors of Computer Science.Presently pursuing my Master's from Lakehead University in Canada.
     Some of the skills I am proficient in, but not limited to, are:-
     - Flutter SDK/Dart
     - UI/UX
@@ -236,7 +236,7 @@ experiences:
 projects:
   title: Projects
   intro: |
-    List of projects I have designed, developed, tested and/or published.
+    List of projects designed, developed, tested and/or published.
 
   assignments:
     - title: School ERP app demo
