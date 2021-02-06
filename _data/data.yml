@@ -189,7 +189,7 @@ educationcomplete:
 
 experiences:
     - role: Mobile Application Developer(Flutter)
-      time: 2020-2021
+      time: 2020 - 2021
       company: Wizcrew Technologies, India
       details: |
           - Designed and developed fully functional ERP school software apps with Firebase for backend/authentication and functioning WebRTC video conferencing feature. 
@@ -229,33 +229,31 @@ experiences:
           - Learned basics of android programming using Java.
           - Implemented strategies to build working android apps.
 
-#projects:
-    #title: Projects
-    #intro: >
-      #You can list your side projects or open source libraries in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+projects:
+    title: Projects
+    intro: >
+      List of projects I have designed, developed, tested and published.
 
-    #assignments:
-      #- title: Velocity
-        #link: "#hook"
-        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    assignments:
+      - title: School ERP app demo
+        link: "https://github.com/sidhunt/SchoolERP-showcase"
+        tagline: "A fully functional ERP school software apps with Firebase for backend/authentication and functioning WebRTC video conferencing feature."
 
-      #- title: DevStudio
-        #link: "#"
-        #tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Indian Government Schemes Agregator App
+        link: "https://github.com/sidhunt/SarkariYojanaDemo"
+        tagline: "an Indian government schemes aggregator/informative app with JSON based dynamic UI and real-time caching."
 
-      #- title: Tempo
-        #link: "#"
-        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: BakBak
+        link: "https://github.com/sidhunt/bak-bak"
+        tagline: "a media sharing app (TikTok clone) with headless CMS as backend."
 
-      #- title: Atom
-        #link: "#"
-        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: News Aggregator App
+        link: "https://github.com/sidhunt/News-App-Showcase"
+        tagline: "Aa multilingual news aggregator app(Google news clone)."
 
-      #- title: Delta
-        #link: "#"
-        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Touchless Video Controller App
+        link: "https://github.com/sidhunt/Hand-Gesture-Media-Controller"
+        tagline: "A demo app to showcase hand gesture recognition to control any media like videos/audio."
 
 # publications:
 #     title: Publications
