@@ -247,7 +247,7 @@ projects:
       link: "https://github.com/sidhunt/News-App-Showcase"
       tagline: "A multilingual news aggregator app(Google news clone)."
 
-    - title: Touchless Video Controller App
+    - title: Touchfree Video Controller App
       link: "https://github.com/sidhunt/Hand-Gesture-Media-Controller"
       tagline: "A demo app to showcase hand gesture recognition to control any media like videos/audio."
 
