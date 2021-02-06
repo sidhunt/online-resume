@@ -198,19 +198,36 @@ experiences:
           - Developed a multilingual news aggregator app(Google news clone).
           - Developed, tested and published several apps for the company as well as worked on many more.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Junior Mobile Application Developer(Flutter)
+      time: 2019 Aug-Dec
+      company: Digital Business Solutions
       details: |
-          - Bullet point
-          - Bullet point
+          - Implemented a CRM app with focus on geofencing and geotagging, Also implemented various Authentication systems using Firebase backend, like OTP, social sign-up (Google, Facebook, Email) and payment gateway using Razorpay SDK.
+          -	Worked with remote data via REST and JSON as well as noSQL database management using Firestore.
+          -	Implemented several third-party libraries and APIs.
+          -	Full-stack mobile app development (Android and iOS) using the Flutter/Firebase ecosystem.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Python Trainee
+      time: 2019 Mar-Aug
+      company: Coding Ninjas,India 
       details: |
-          - Bullet point
-          - Bullet point
+          - Learned basics of python programming.
+          - Implemented various data structures using python.
+          -	Developed a Twitter bot to reply to a tweet directed towards the account.
+
+    - role: Mobile Software Engineer Intern
+      time: 2016 June-Aug
+      company: TimeTackle LLC, USA
+      details: |
+          - Published an Android meditation app on Google Play Store, implemented a user on-boarding page as well as an inhale/exhale animation guide.  
+          
+
+    - role: Android Trainee
+      time: 2015 Apr-Jul
+      company: CETPA Infotech Pvt. Ltd, India
+      details: |
+          - Learned basics of android programming using Java.
+          - Implemented strategies to build working android apps.
 
 #projects:
     #title: Projects
