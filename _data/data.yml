@@ -12,15 +12,15 @@ sidebar:
     avatar: square.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: biagio.brattoli@gmail.com
-    phone: 
-    website: bbrattoli.github.io/publications/ #do not add http://
-    linkedin: biagiobrattoli
-    github: bbrattoli
+    email: siddhantbadola5@gmail.com
+    phone: +91-8755227563
+    website:    #bbrattoli.github.io/publications/ #do not add http://
+    linkedin: sbadola5
+    github: sidhunt
     gitlab:
     bitbucket:
-    twitter: '@BiagioBrattoli'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@sidhunt5'
+    stack-overflow: 5089556/siddhant-badola # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -28,29 +28,27 @@ sidebar:
       - idiom: English
         level: Fluent
 
-      - idiom: Italian
+      - idiom: Hindi  # Italian
         level: Native
 
-      - idiom: German
-        level: Colloquial
+      - idiom: # German
+        level: #Colloquial
 
     interests:
-      - item: Guitar
+      - item: Video Games
         link:
 
-      - item: Basketball
+      - item: Music
         link:
 
-      - item: Biking
+      - item: Swimming
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Currently full-time Applied Scientist at AWS. After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image processing under the supervision of Bjoern Ommer.
-      Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
-
+A Mobile Application Developer with 2+ years of experience in technology sector. A Flutter developer who specializes in UI/UX, Digital Content, and learning new skills along the way. A 2017 Bachelors of Computer Science graduate of DIT University interested in Android/iOS, Machine Learning, and New Markets.
+ 
 news:
     title: News
     intro: |
