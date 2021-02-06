@@ -293,7 +293,7 @@ projects:
 #         conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
